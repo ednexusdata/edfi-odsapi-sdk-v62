@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>EdNeuxsData.EdFi.OdsApi.Sdk.v62</id>
+    <id>EdNexusData.EdFi.OdsApi.Sdk.v62</id>
     <version>1.0.1</version>
-    <title>EdNeuxsData.EdFi.OdsApi.Sdk.v62</title>
+    <title>EdNexusData.EdFi.OdsApi.Sdk.v62</title>
     <authors>Makoa Jacobsen</authors>
     <owners>Education Nexus</owners>
     <description>EdFi OdsApi SDK with base types</description>
