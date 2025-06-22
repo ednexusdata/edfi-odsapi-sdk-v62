@@ -9,8 +9,13 @@
     <description>EdFi OdsApi SDK with base types</description>
     <repository type="git" url="https://github.com/ednexusdata/edfi-odsapi-sdk-v62" commit="$commit$" />
     <dependencies>
-      <group targetFramework="net8.0" />
-    </dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="JsonSubTypes" version="2.0.1" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" />
+        <dependency id="RestSharp" version="112.0.0" />
+        <dependency id="Polly" version="8.1.0" />
+      </group>
+    </dependencies> 
   </metadata>
   <files>
     <file src="bin\Release\net8.0\EdFi.OdsApi.Sdk.v62.dll" target="lib\net8.0\" />
